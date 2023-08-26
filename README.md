@@ -5,6 +5,7 @@ We can summarize the functionality of the tool into four functions:
 - Extract specific info from file metadata: file creation timestamp, file modified timestamp, Signer, whether the file is signed or not, the original filename, file location, product name, company name, file description, language, version, and file hash (SHA1).
 - Evaluate the entries based on the whitelist and blacklist.
 - Score each entry and classify it into one of three levels:
+  - Clean: 0
   - Notice: from 1 to 15.
   - Warning: from 16 to 40
   - Alert: from 41 to 100

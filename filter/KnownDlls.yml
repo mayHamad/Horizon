@@ -1,0 +1,16 @@
+whiteList:
+  filename: ['wow64.dll', 'wow64cpu.dll', 'wow64win.dll', 'wowarmhw.dll', 'advapi32.dll', 'clbcatq.dll', 
+                'combase.dll', 'COMDLG32.dll', 'coml2.dll', 'difxapi.dll', 'gdi32.dll', 'gdiplus.dll', 'IMAGEHLP.dll', 
+                'IMM32.dll', 'kernel32.dll', 'MSCTF.dll', 'MSVCRT.dll', 'NORMALIZ.dll', 'NSI.dll', 'ole32.dll', 'OLEAUT32.dll', 
+                'PSAPI.DLL', 'rpcrt4.dll', 'sechost.dll', 'Setupapi.dll', 'SHCORE.dll', 'SHELL32.dll', 'SHLWAPI.dll', 'user32.dll', 'WLDAP32.dll', 'WS2_32.dll']
+  signer: [ 'Microsoft Time-Stamp PCA 2010', 'Microsoft Windows', 'Microsoft Time-Stamp servic' ]
+  path: []
+  ext: []
+blackList:
+  filename: []
+  signer: []
+  path: []
+  ext: []
+  version: []
+  hash: []
+  lang: []
